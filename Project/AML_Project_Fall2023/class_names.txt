@@ -1,0 +1,17 @@
+airplanes
+buddha
+chair
+dolphin
+elephant
+Faces
+grand_piano
+lobster
+Motorbikes
+octopus
+panda
+rhino
+snoopy
+strawberry
+water_lilly
+
+
